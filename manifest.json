@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "Minecraft Fandom to Wiki Extension",
-	"short_name": "Minecraft Fandom to Wiki",
+	"short_name": "MC Fandom to Wiki",
 	"description": "This extension will redirect you from Minecraft Fandom to Minecraft Wiki.",
 	"version": "1.0.0",
 	"content_scripts": [
